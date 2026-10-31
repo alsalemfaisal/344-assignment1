@@ -119,4 +119,3 @@ an arbitrary-length laboratory prototype within available memory, not a streamin
 CTR consumes consecutive counters from a random 128-bit initial counter; each
 normal envelope has a freshly derived key. Never reuse a key/counter stream.
 
-# ICS344-assignment-1
